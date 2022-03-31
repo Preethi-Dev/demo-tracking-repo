@@ -1,4 +1,3 @@
-***demo-tracking-repo***
+**_demo-tracking-repo_**
 
- *Created for demo purpose - 4 branches* <!--By keerthi-->
- 
+_Created for demo purpose - 4 branches_
